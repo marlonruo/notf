@@ -12,6 +12,9 @@
     },
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "org.apache.notf"
+    },
+    "cordova-opentok-android-permissions": {
+      "PACKAGE_NAME": "org.apache.notf"
     }
   },
   "dependent_plugins": {

@@ -49,7 +49,8 @@ module.exports.metadata =
   "cordova-plugin-device": "1.1.7",
   "cordova-plugin-badge": "0.8.5",
   "cordova-plugin-local-notification": "0.9.0-beta.1",
-  "cordova-plugin-whitelist": "1.3.3"
+  "cordova-plugin-whitelist": "1.3.3",
+  "cordova-opentok-android-permissions": "1.0.0"
 };
 // BOTTOM OF METADATA
 });
